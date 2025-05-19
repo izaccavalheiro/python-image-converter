@@ -60,11 +60,3 @@ The script implements basic error handling:
 
 - Original files are preserved during conversion
 - There is a redundant conversion at the end of the script using list comprehension that duplicates the functionality of the preceding for loop
-
-## License
-
-[Add your license information here]
-
-## Author
-
-[Add your name/contact information here]
